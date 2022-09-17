@@ -1,9 +1,6 @@
-<div align="center">
+# Jaehuiui Blog
 
-  # Jaehuiui Blog
-  > 가보자
-
-</div>
+> 블로그
 
 ## License
 
